@@ -1,4 +1,4 @@
-![AwesomeCode](http://https://github.com/Neszp97/Neszp97/blob/main/continious-learning.png)
+![AwesomeCode](https://github.com/Neszp97/Neszp97/blob/main/continious-learning.png)
 <h1 align="center">Hi 👋, I'm Neszp</h1>
 <h3 align="center">Web Developer</h3>
 
